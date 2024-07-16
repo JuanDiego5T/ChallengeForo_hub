@@ -9,6 +9,4 @@ This project is based on "Foro Hub" challenge proposed by ONE-G6
 - Java
 - Spring
 - MySQL
----
-## Software Developer
-:copyright: 2024  |  Found a bug or have an idea? [Contact me](https://github.com/javierandres-dev).
+
